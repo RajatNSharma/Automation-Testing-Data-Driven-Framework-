@@ -1,0 +1,16 @@
+[32mINFO    [0m Test_Login:test_Login.py:14 Opening Browser
+[32mINFO    [0m Test_Login:test_Login.py:17 Going to Url
+[32mINFO    [0m Test_Login:test_Login.py:28 Enter UserName-->Admin
+[32mINFO    [0m Test_Login:test_Login.py:30 Enter Password-->admin123
+[32mINFO    [0m Test_Login:test_Login.py:32 Click on login button
+[32mINFO    [0m Test_Login:test_Login.py:39 Click on menu button
+[32mINFO    [0m Test_Login:test_Login.py:41 Click on logout button
+[32mINFO    [0m Test_Login:test_Login.py:28 Enter UserName-->Admin1
+[32mINFO    [0m Test_Login:test_Login.py:30 Enter Password-->admin123
+[32mINFO    [0m Test_Login:test_Login.py:32 Click on login button
+[32mINFO    [0m Test_Login:test_Login.py:28 Enter UserName-->Admin
+[32mINFO    [0m Test_Login:test_Login.py:30 Enter Password-->admin1231
+[32mINFO    [0m Test_Login:test_Login.py:32 Click on login button
+[32mINFO    [0m Test_Login:test_Login.py:28 Enter UserName-->Admin1
+[32mINFO    [0m Test_Login:test_Login.py:30 Enter Password-->admin1231
+[32mINFO    [0m Test_Login:test_Login.py:32 Click on login button

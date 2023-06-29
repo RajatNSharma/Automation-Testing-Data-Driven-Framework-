@@ -1,0 +1,122 @@
+2023-06-29 11:34:01,893 : INFO :  Test_Login : test_login: Opening Browser
+2023-06-29 11:34:06,314 : INFO :  Test_Login : test_login: Going to Url
+2023-06-29 11:34:06,892 : INFO :  Test_Login : test_login: Enter UserName-->Admin
+2023-06-29 11:34:06,962 : INFO :  Test_Login : test_login: Enter Password-->admin123
+2023-06-29 11:34:08,852 : INFO :  Test_Login : test_login: Click on login button
+2023-06-29 11:40:25,374 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 11:40:32,586 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 11:40:33,189 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 11:40:33,225 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 11:40:35,194 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:43:39,530 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 11:43:46,073 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 11:43:46,838 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 11:43:46,860 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 11:43:48,495 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:43:49,292 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 11:43:50,751 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 11:43:51,354 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 11:43:51,403 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 11:43:52,920 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:43:58,178 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 11:43:58,200 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 11:43:59,381 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:44:04,568 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 11:44:04,606 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 11:44:05,455 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:47:08,698 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 11:47:24,026 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 11:47:25,129 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 11:47:25,160 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 11:47:27,080 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:47:27,871 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 11:47:29,360 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 11:47:29,926 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 11:47:29,955 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 11:47:31,359 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:47:36,621 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 11:47:36,636 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 11:47:37,770 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 11:47:42,965 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 11:47:43,034 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 11:47:43,886 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:00:26,377 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 12:00:31,444 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 12:00:32,577 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:00:32,624 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:00:35,215 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:00:36,070 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 12:00:37,676 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 12:00:38,277 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:00:38,308 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:00:39,295 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:00:44,579 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:00:44,595 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:00:45,745 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:00:50,975 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:00:50,997 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:00:51,947 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:07:26,518 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 12:07:32,841 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 12:07:33,421 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:07:33,453 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:07:35,379 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:07:36,173 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 12:07:37,645 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 12:07:38,230 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:07:38,265 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:07:39,634 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:07:44,883 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:07:44,905 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:07:46,171 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:07:51,416 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:07:51,440 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:07:52,302 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:14:00,102 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 12:14:05,753 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 12:14:06,910 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:14:06,957 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:14:08,847 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:14:09,682 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 12:14:11,391 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 12:14:11,988 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:14:12,008 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:14:16,422 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:14:21,685 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:14:21,716 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:14:22,926 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:14:28,157 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:14:28,189 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:14:29,044 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:37:06,678 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 12:37:11,376 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 12:37:12,093 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:37:12,125 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:37:17,424 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:37:21,965 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 12:37:23,560 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 12:37:24,137 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:37:24,162 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:37:25,621 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:37:30,850 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:37:30,866 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:37:32,270 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:37:37,520 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:37:37,551 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:37:38,537 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:46:11,115 : INFO :  Test_Login : test_login001: Opening Browser
+2023-06-29 12:46:14,857 : INFO :  Test_Login : test_login001: Going to Url
+2023-06-29 12:46:15,458 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:46:15,505 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:46:17,410 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:46:18,332 : INFO :  Test_Login : test_login001: Click on menu button
+2023-06-29 12:46:19,664 : INFO :  Test_Login : test_login001: Click on logout button
+2023-06-29 12:46:20,255 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:46:20,292 : INFO :  Test_Login : test_login001: Enter Password-->admin123
+2023-06-29 12:46:25,559 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:46:30,857 : INFO :  Test_Login : test_login001: Enter UserName-->Admin
+2023-06-29 12:46:30,873 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:46:31,120 : INFO :  Test_Login : test_login001: Click on login button
+2023-06-29 12:46:36,334 : INFO :  Test_Login : test_login001: Enter UserName-->Admin1
+2023-06-29 12:46:36,350 : INFO :  Test_Login : test_login001: Enter Password-->admin1231
+2023-06-29 12:46:37,290 : INFO :  Test_Login : test_login001: Click on login button
