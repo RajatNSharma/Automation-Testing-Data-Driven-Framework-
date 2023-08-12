@@ -1,3 +1,4 @@
+import time
 import pytest
 from PageObjects.LoginPage import Login
 from Utilities import XLutils
@@ -8,7 +9,7 @@ from Utilities.ReadConfigfile import ReadValue
 class Test_Login:
     Url = ReadValue.getUrl()
     log = LogGen.loggen()
-    path = "D:\\E\\IT\\Orangehrm Project\\TestData\\LoginData1.xlsx"
+    path = "D:\\E\\IT\\Orangehrm Project DDT Framework\\TestData\\LoginData1.xlsx"
 
     def test_login001(self, setup):
         self.log.info("Opening Browser")
@@ -34,7 +35,7 @@ class Test_Login:
             if self.lp.login_status() == True:
                 if self.Exp_Stauts == "Pass":
                     login_stauts.append("Pass")
-                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project\\Screenshots\\test_login_001_pass.png")
+                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project DDT Framework\\Screenshots\\test_login_001_pass.png")
                     self.lp.Click_Menu_Button()
                     self.log.info("Click on menu button")
                     self.lp.Click_logout_Button()
@@ -42,7 +43,7 @@ class Test_Login:
                     XLutils.writeData(self.path, 'Sheet1', r, 4, "Pass")
                 elif self.Exp_Stauts == "Fail":
                     login_stauts.append("Fail")
-                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project\\Screenshots\\test_login_001_fail.png")
+                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project DDT Framework\\Screenshots\\test_login_001_fail.png")
                     self.lp.Click_Menu_Button()
                     self.log.info("Click on menu button")
                     self.lp.Click_logout_Button()
@@ -53,12 +54,13 @@ class Test_Login:
             else:
                 if self.Exp_Stauts == "Fail":
                     login_stauts.append("Pass")
-                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project\\Screenshots\\test_login_001_fail.png")
+                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project DDT Framework\\Screenshots\\test_login_001_fail.png")
                     XLutils.writeData(self.path, 'Sheet1', r, 4, "Fail")
                 elif self.Exp_Stauts == "Pass":
                     login_stauts.append("Fail")
-                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project\\Screenshots\\test_login_001_fail.png")
+                    self.driver.save_screenshot("D:\\E\\IT\\Orangehrm Project DDT Framework\\Screenshots\\test_login_001_fail.png")
                     XLutils.writeData(self.path, 'Sheet1', r, 4, "Fail")
             print(login_stauts)
 
-        # self.driver.close()
+        self.driver.close()
+

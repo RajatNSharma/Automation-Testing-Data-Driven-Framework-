@@ -14,14 +14,17 @@ class Login:
 
     def __init__(self,driver):
         self.driver = driver
-        self.wait = WebDriverWait(driver,5)
+        self.wait = WebDriverWait(driver,10)
 
 
     def Enter_Username(self,username):
         self.wait.until(expected_conditions.presence_of_element_located(self.Text_username_Name))
+        self.driver.find_element(*Login.Text_username_Name).clear()
         self.driver.find_element(*Login.Text_username_Name).send_keys(username)
 
     def Enter_Password(self,password):
+        self.wait.until(expected_conditions.presence_of_element_located(self.Text_Password_Name))
+        self.driver.find_element(*Login.Text_Password_Name).clear()
         self.driver.find_element(*Login.Text_Password_Name).send_keys(password)
 
     def Click_Login(self):
